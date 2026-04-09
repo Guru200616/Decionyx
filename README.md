@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Decionyx is a production-grade AI Decision Operating System designed to move beyond traditional analytics and dashboards.
 
-# Run and deploy your AI Studio app
+It combines multi-agent intelligence, retrieval-augmented generation (RAG), predictive simulation, and human-in-the-loop governance to deliver reliable, explainable, and actionable decisions in real time.
 
-This contains everything you need to run your app locally.
+Unlike typical AI tools, Decionyx is built as a decision-making system, not just a chatbot — integrating intelligence, validation, cost optimization, and enterprise-grade architecture into a single platform.
 
-View your app in AI Studio: https://ai.studio/apps/fe3f3ae6-59aa-464a-8f35-bebdc006c2d1
+🔥 Key Highlights
+🧠 Multi-Agent Decision System (Analyst, Strategist, Critic, Executor)
+📚 RAG-based Knowledge Engine (grounded, source-backed answers)
+🔮 Predictive Simulation Engine (what-if analysis + confidence scoring)
+🛡️ Trust Layer (guardrails, validation, hallucination control)
+⚡ Semantic Cache + Model Routing (cost & latency optimization)
+👤 Human-in-the-loop (risk-based approvals)
+📊 Explainability (“WHY” trace panel with full reasoning path)
+🎤 Multimodal support (Voice + Tamil/English)
+📈 Observability + Evaluation (metrics, drift, performance tracking)
+🎨 Premium SaaS UI (glassmorphism + real-time dashboard)
+🧠 One-Line Positioning (Use anywhere)
 
-## Run Locally
+Decionyx is not a dashboard — it’s a Decision Operating System.
 
-**Prerequisites:**  Node.js
+👤 Author
 
+Built by Guru Rengarajan
+🔗 GitHub: https://github.com/Guru200616
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🔗 LinkedIn: https://www.linkedin.com/in/guru-rengarajan-06231a306
+
+📧 Email: rguru160706@gmail.com
